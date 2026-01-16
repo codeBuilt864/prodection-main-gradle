@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: movie-app
-        image: yash12j/multibranch-app:build-3
+        image: yash12j/multibranch-app:build-4
         ports:
         - containerPort: 5000
